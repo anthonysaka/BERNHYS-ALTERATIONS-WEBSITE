@@ -1,0 +1,17 @@
+# Ignore directories
+wp-content/uploads/
+wp-content/plugins/
+wp-content/themes/
+wp-content/upgrade/
+wp-content/cache/
+
+# Ignore files
+wp-config.php
+.htaccess
+error_log
+.htaccess.bak
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-related files
+.idea/
